@@ -1,22 +1,22 @@
-**Best with:** Python · TypeScript · AWS (Bedrock, Lambda, S3) · Real-time systems (WebSockets) · Computer Vision · ML pipelines  
-**Familiar with:** React · Node.js · PyTorch · Embedded sensors (IMU, force) · Business strategy & finance
+**Best with:** Python · AWS (Bedrock, Lambda, S3) · Real-time systems & WebSockets · Computer Vision · End-to-end prototyping under time pressure  
+**Familiar with:** TypeScript · Node.js · Embedded sensors (IMU, force) · SQL · Business strategy & finance
 
-> **TL;DR** I'm a 20-year-old Spanish builder doing a double degree in CS + Business at UCM. I won the Harvard HSIL Hackathon 2026 (1st of 350+ builders, 50 countries) shipping a neuromotor rehab system in 36 hours, then rebuilt it solo without hardware using only computer vision. I ship end-to-end: from sensor data and ML to AWS pipelines and the UI on top. Currently interning at Galeo Tech on ML pipelines and AWS, hunting for a high-bar role at a top startup.
+> **TL;DR** I'm Mateo, 20, doing a double degree in CS + Business at UCM. I won the Harvard HSIL Hackathon 2026 (1st of 350+ builders, 50 countries) building a neuromotor rehab system in 36 hours, and I won the Cursor Hackathon building an app driven by an eye-tracker we built ourselves. I work as a Software Engineer at Galeo Tech. I move fast, I like competition, and I default to building.
 
 ---
 
-## About [TU NOMBRE]
+## About Mateo
 
-Madrid-based, builder by default. I picked the CS + Business double degree because I wanted to ship things people actually use, not just code them. I move fastest at the intersection of ML, cloud and a real product on top, the kind of project where you have to wire the sensor, train the model, deploy the pipeline and design the UI in the same week. Outside of school I intern at Galeo Tech (remote) and spend most weekends building.
+Madrid-born and based. I do the CS + Business double degree at UCM and work as a Software Engineer at Galeo Tech. What actually defines how I spend my time is hackathons: I keep showing up, building end-to-end, and seeing how far I can push a prototype in 36 hours. I work fastest when there's a clock and full ownership over what I'm shipping. Most of what I'm proud of started as a hackathon and kept going.
 
 ---
 
 ### Main Achievements
 
-* **1st place, Harvard HSIL Hackathon 2026.** Won against 350+ builders from 50 countries with **SteadyArc**, a neuromotor rehab system built in 36 hours. Demo below.
-* **Admitted to the Exponential Launchpad (2026).** Selected for the program connecting top Spanish technical talent with leading European and US startups.
-* **Double degree CS + Business, UCM** (graduating 2027). Currently in 3rd year.
-* **ML & Cloud Intern at Galeo Tech** (remote). Production work on ML pipelines and AWS.
+* **1st place, Harvard HSIL Hackathon 2026.** 350+ builders, 50 countries. Built **SteadyArc**, a neuromotor rehab system, in 36 hours.
+* **1st place, Cursor Hackathon 2025.** Built an application controlled by a custom eye-tracker we developed from scratch during the event.
+* **Software Engineer at Galeo Tech.** Promoted from intern to Software Engineer.
+* **Double degree in CS + Business, UCM** (graduating 2027). Honors in Statistics, Data Structures, and Foundations of Algorithms.
 
 ---
 
@@ -24,30 +24,26 @@ Madrid-based, builder by default. I picked the CS + Business double degree becau
 
 | Project | Role & Stack | Why it matters |
 | --- | --- | --- |
-| **SteadyArc (Hardware)** | Game + system integration + AWS pipeline · Python, WebSockets, AWS Bedrock, IMU/force sensors | Won Harvard HSIL 2026. Glove + browser game + ML metrics + auto-generated clinical report. [Demo](LINK_VIDEO_1) |
-| **SteadyArc CV** | Solo build · Python, MediaPipe/OpenCV, WebSockets, AWS Bedrock | Same clinical outcome, zero hardware. Webcam-only neuromotor tracking. [Demo](LINK_VIDEO_2) · [Live](LINK_DEPLOY_SI_LO_TIENES) |
-| **[OPCIONAL: PROYECTO 3]** | [tu rol] · [stack] | [una línea de impacto] |
-
-> *Tip for reviewers: SteadyArc CV runs in any browser, no setup needed.*
+| **SteadyArc (Hardware)** | Game + system integration + AWS pipeline · Python, WebSockets, AWS Bedrock, IMU/force sensors | Won Harvard HSIL 2026. Smart glove + browser game + ML metrics + auto-generated clinical report, end to end in 36 hours. [Demo](LINK_VIDEO_1) |
+| **SteadyArc CV** | Solo build · Python, Computer Vision, WebSockets, AWS Bedrock | Same clinical outcome as the hardware version, no hardware. Webcam-only neuromotor tracking, deployable anywhere. [Demo](LINK_VIDEO_2) · [Try it](LINK_DEPLOY) |
 
 ---
 
 ### Experience (TL;DR)
 
-* **Galeo Tech (2025–present)** Software intern, remote. ML pipelines, AWS infra, full-stack feature work across multiple client projects.
-* **Harvard HSIL Hackathon 2026** 1st place out of 350+ builders, 50 countries. Built SteadyArc in 36 hours.
-* **UCM Double Degree CS + Business (2023–2027)** Top of cohort in [SI APLICA: asignaturas técnicas / nota media].
-* **Exponential Launchpad Fellow (2026)**
+* **Galeo Tech (2025–present).** Software Engineer (started as intern, promoted to SWE). Production work across multiple client projects.
+* **Harvard Hardware Venture Building Program (2026, ongoing).** 2-month program awarded to the winning team of the Harvard HSIL Hackathon. Building on top of SteadyArc.
+* **UCM Double Degree CS + Business (2023–2027).** Honors in Statistics, Data Structures, Foundations of Algorithms.
 
 ---
 
 ## How I Work
 
-* **Gets me pumped:** small teams shipping fast · projects that touch hardware, ML and a real UI in the same repo · being trusted with end-to-end ownership
-* **Disappoints me:** over-planning, status meetings that should be a Slack message, "we'll fix it later" culture
-* **Strengths:** I glue stuff together. Sensor to ML to cloud to frontend. I'm comfortable being the person who makes the demo actually work the night before.
-* **Improvement points:** I default to building before scoping. Working on writing more before coding.
-* **Known behaviours:** async-first, very direct comms, ship rough then polish, allergic to bikeshedding.
+* **Gets me pumped:** building fast · competition and seeing how far I can push myself · being the engineer who owns the build end to end · hackathons.
+* **Disappoints me:** losing. Losing hackathons or competitions makes me restless. I'm not patient with going slow when there's no reason to.
+* **Strengths:** I build from zero. I'm good at standing up a working prototype from nothing and pushing it as far as I can solo, which is mostly what hackathons have trained me to do.
+* **Improvement points:** I default to shipping before I study the problem deeply enough. I want to widen the base I build on, because sometimes I'm flying blind on fundamentals I should already know.
+* **Known behaviours:** hard worker, builder, prefer doing over planning, comfortable being the person who gets the demo working at 4am.
 
 ---
 
@@ -55,11 +51,11 @@ Madrid-based, builder by default. I picked the CS + Business double degree becau
 
 ### Some personal stuff
 
-* Born and raised in [CIUDAD]. Currently splitting time between Madrid and [SI APLICA].
-* Interested in the intersection of healthtech, ML systems and consumer hardware.
-* Outside of code: [2-3 cosas reales: deporte, hobbies, lo que sea]
-* Links: [LinkedIn] · [Personal site si tienes] · [Twitter/X si tienes]
+* From Madrid, based in Madrid.
+* Interested in healthtech. The Harvard HSIL experience pulled me into the space and I keep going deeper.
+* Ex ski instructor. Skiing is my favorite thing in the world and I get on the mountain whenever I can.
+* [LinkedIn](https://www.linkedin.com/in/mateoperezguzman/)
 
 ### My vision
 
-Five years out: I want to have built or been an early engineer on something technically hard with real users, ideally at the boundary of ML systems and a physical or clinical product. The Exponential Launchpad is the fastest way I've found to put myself in rooms with people building exactly that, in Europe and the US, while I still have the optionality to choose where to go all-in.
+Programs like the Exponential Fellowship matter to me because they put me in front of people who open my eyes to what's actually being built and how much further I have to go. Five years out, I want to have shipped something technically hard with real users, ideally something that started as a hackathon and didn't stop. Until then, I want to keep meeting builders who make me feel slightly behind.
