@@ -1,7 +1,7 @@
 **Best with:** Python · AWS (Bedrock, Lambda, S3) · Real-time systems & WebSockets · Computer Vision · End-to-end prototyping under time pressure  
 **Familiar with:** TypeScript · Node.js · Embedded sensors (IMU, force) · SQL · Business strategy & finance
 
-> **TL;DR** I'm Mateo, 20, doing a double degree in CS + Business at UCM. I won the Harvard HSIL Hackathon 2026 (1st of 350+ builders, 50 countries) building a neuromotor rehab system in 36 hours, and I won the Cursor Hackathon building an app driven by an eye-tracker we built ourselves. I work as a Software Engineer at Galeo Tech. I move fast, I like competition, and I default to building.
+> **TL;DR** I'm Mateo, 20, doing a double degree in CS + Business at UCM. I won the Harvard HSIL Hackathon 2026 (1st of 350+ builders, 50 countries) building a neuromotor rehab system in 36 hours, and I won the Cursor Hackathon 2025 building an app driven by an eye-tracker we built ourselves. I work as a Software Engineer at Galeo Tech. I move fast, I like competition, and I default to building.
 
 ---
 
@@ -24,7 +24,7 @@ Madrid-born and based. I do the CS + Business double degree at UCM and work as a
 
 | Project | Role & Stack | Why it matters |
 | --- | --- | --- |
-| **SteadyArc (Hardware)** | Game + system integration + AWS pipeline · Python, WebSockets, AWS Bedrock, IMU/force sensors | Won Harvard HSIL 2026. Smart glove + browser game + ML metrics + auto-generated clinical report, end to end in 36 hours. [Demo](LINK_VIDEO_1) |
+| **SteadyArc (Hardware)** | Game + system integration + AWS pipeline · Python, WebSockets, AWS Bedrock, IMU/force sensors | Won Harvard HSIL 2026. Smart glove + browser game + ML metrics + auto-generated clinical report, end to end in 36 hours. [Demo](https://youtu.be/B86NlENJq8o) |
 | **SteadyArc CV** | Solo build · Python, Computer Vision, WebSockets, AWS Bedrock | Same clinical outcome as the hardware version, no hardware. Webcam-only neuromotor tracking, deployable anywhere. [Demo](LINK_VIDEO_2) · [Try it](LINK_DEPLOY) |
 
 ---
