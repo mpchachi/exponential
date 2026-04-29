@@ -14,7 +14,7 @@ Madrid-born and based. I do the CS + Business double degree at UCM and work as a
 ### Main Achievements
 
 * **1st place, Harvard HSIL Hackathon 2026.** 350+ builders, 50 countries. Built **SteadyArc**, a neuromotor rehab system, in 36 hours.
-* **1st place, Cursor Hackathon 2026.** Built an application controlled by a custom eye-tracker we developed from scratch during the event.
+* **1st place, Cursor Hackathon 2025.** Built an application controlled by a custom eye-tracker we developed from scratch during the event.
 * **Software Engineer at Galeo Tech.** Promoted from intern to Software Engineer.
 * **Double degree in CS + Business, UCM** (graduating 2027). Honors in Statistics, Data Structures, and Foundations of Algorithms.
 
@@ -25,7 +25,7 @@ Madrid-born and based. I do the CS + Business double degree at UCM and work as a
 | Project | Role & Stack | Why it matters |
 | --- | --- | --- |
 | **SteadyArc (Hardware)** | Game + system integration + AWS pipeline · Python, WebSockets, AWS Bedrock, IMU/force sensors | Won Harvard HSIL 2026. Smart glove + browser game + ML metrics + auto-generated clinical report, end to end in 36 hours. [Demo](https://youtu.be/B86NlENJq8o) |
-| **SteadyArc CV** | Solo build · Python, Computer Vision, WebSockets, AWS Bedrock | Same clinical outcome as the hardware version, no hardware. Webcam-only neuromotor tracking, deployable anywhere.Demo link and try it link [Demo](LINK_VIDEO_2) · [Try it](LINK_DEPLOY) |
+| **SteadyArc CV** | Solo build · Python, Computer Vision, Eye-tracking, WebSockets, AWS Bedrock | Same clinical outcome as the hardware version, no hardware. Webcam-only neuromotor tracking with gaze heat-mapping for clinicians. [Demo](https://youtu.be/0cSZrC1KsxY) |
 
 ---
 
