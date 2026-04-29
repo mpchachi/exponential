@@ -25,7 +25,7 @@ Madrid-born and based. I do the CS + Business double degree at UCM and work as a
 | Project | Role & Stack | Why it matters |
 | --- | --- | --- |
 | **SteadyArc (Hardware)** | Game + system integration + AWS pipeline · Python, WebSockets, AWS Bedrock, IMU/force sensors | Won Harvard HSIL 2026. Smart glove + browser game + ML metrics + auto-generated clinical report, end to end in 36 hours. [Demo](https://youtu.be/B86NlENJq8o) |
-| **SteadyArc CV** | Solo build · Python, Computer Vision, WebSockets, AWS Bedrock | Same clinical outcome as the hardware version, no hardware. Webcam-only neuromotor tracking, deployable anywhere. [Demo](LINK_VIDEO_2) · [Try it](LINK_DEPLOY) |
+| **SteadyArc CV** | Solo build · Python, Computer Vision, WebSockets, AWS Bedrock | Same clinical outcome as the hardware version, no hardware. Webcam-only neuromotor tracking, deployable anywhere.Demo link and try it link [Demo](LINK_VIDEO_2) · [Try it](LINK_DEPLOY) |
 
 ---
 
