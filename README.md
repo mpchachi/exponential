@@ -14,7 +14,7 @@ Madrid-born and based. I do the CS + Business double degree at UCM and work as a
 ### Main Achievements
 
 * **1st place, Harvard HSIL Hackathon 2026.** 350+ builders, 50 countries. Built **SteadyArc**, a neuromotor rehab system, in 36 hours.
-* **1st place, Cursor Hackathon 2025.** Built an application controlled by a custom eye-tracker we developed from scratch during the event.
+* **1st place, Cursor Hackathon 2026.** Built an application controlled by a custom eye-tracker we developed from scratch during the event.
 * **Software Engineer at Galeo Tech.** Promoted from intern to Software Engineer.
 * **Double degree in CS + Business, UCM** (graduating 2027). Honors in Statistics, Data Structures, and Foundations of Algorithms.
 
