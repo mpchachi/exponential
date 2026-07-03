@@ -1,7 +1,7 @@
 **Best with:** Python · AWS (Bedrock, Lambda, S3) · Real-time systems & WebSockets · Computer Vision · End-to-end prototyping under time pressure  
 **Familiar with:** TypeScript · Node.js · Embedded sensors (IMU, force) · SQL · Business strategy & finance
 
-> **TL;DR** I'm Mateo, 20, doing a double degree in CS + Business at UCM. I won the Harvard HSIL Hackathon 2026 (1st of 350+ builders, 50 countries) building a neuromotor rehab system in 36 hours, and I won the Cursor Hackathon 2025 building an app driven by an eye-tracker we built ourselves. I work as a Software Engineer at Galeo Tech. I move fast, I like competition, and I default to building.
+> **TL;DR** I'm Mateo, 20, doing a double degree in CS + Business at UCM. I placed 2nd worldwide at the Harvard HSIL Hackathon 2026 (14,000 applicants, 1,500+ teams, pitched in Boston) building a neuromotor rehab system, and I won the Cursor Hackathon 2025 building an app driven by an eye-tracker we built ourselves. I work as a Software Engineer at Galeo Tech. I move fast, I like competition, and I default to building.
 
 ---
 
@@ -13,9 +13,9 @@ Madrid-born and based. I do the CS + Business double degree at UCM and work as a
 
 ### Main Achievements
 
-* **1st place, Harvard HSIL Hackathon 2026.** 350+ builders, 50 countries. Built **SteadyArc**, a neuromotor rehab system, in 36 hours.
+* **2nd place worldwide, Harvard HSIL Hackathon 2026.** 14,000 applicants, 1,500+ teams globally. Pitched in Boston. Built **SteadyArc**, a neuromotor rehab system.
 * **1st place, Cursor Hackathon 2026.** Built an application controlled by a custom eye-tracker we developed from scratch during the event.
-* **Software Engineer at Galeo Tech.** Promoted from intern to Software Engineer.
+* **Software Engineer at Galeo Tech.** Promoted from intern to Software Engineer (May 2026).
 * **Double degree in CS + Business, UCM** (graduating 2027). Honors in Statistics, Data Structures, and Foundations of Algorithms.
 
 ---
@@ -24,15 +24,15 @@ Madrid-born and based. I do the CS + Business double degree at UCM and work as a
 
 | Project | Role & Stack | Why it matters |
 | --- | --- | --- |
-| **SteadyArc (Hardware)** | Game + system integration + AWS pipeline · Python, WebSockets, AWS Bedrock, IMU/force sensors | Won Harvard HSIL 2026. Smart glove + browser game + ML metrics + auto-generated clinical report, end to end in 36 hours. [Demo](https://youtu.be/B86NlENJq8o) |
+| **SteadyArc (Hardware)** | Game + system integration + AWS pipeline · Python, WebSockets, AWS Bedrock, IMU/force sensors | 2nd worldwide at Harvard HSIL 2026. Smart glove + browser game + ML metrics + auto-generated clinical report, end to end in 36 hours. Pitched in Boston. [Demo](https://youtu.be/B86NlENJq8o) |
 | **SteadyArc CV** | Solo build · Python, Computer Vision, Eye-tracking, WebSockets, AWS Bedrock | Same clinical outcome as the hardware version, no hardware. Webcam-only neuromotor tracking with gaze heat-mapping for clinicians. [Demo](https://youtu.be/0cSZrC1KsxY) |
 
 ---
 
 ### Experience (TL;DR)
 
-* **Galeo Tech (2025–present).** Software Engineer (started as intern, promoted to SWE). Production work across multiple client projects.
-* **Harvard Hardware Venture Building Program (2026, ongoing).** 2-month program awarded to the winning team of the Harvard HSIL Hackathon. Building on top of SteadyArc.
+* **Galeo Tech (2025–present).** Software Engineer (promoted from intern, May 2026). Production work across multiple client projects.
+* **Harvard HSIL Venture Building Program (2026).** Offered to hackathon finalists to continue developing SteadyArc.
 * **UCM Double Degree CS + Business (2023–2027).** Honors in Statistics, Data Structures, Foundations of Algorithms.
 
 ---
