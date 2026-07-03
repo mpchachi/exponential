@@ -1,4 +1,4 @@
-**Best with:** Python · AWS (Bedrock, Lambda, S3) · Real-time systems & WebSockets · Computer Vision · End-to-end prototyping under time pressure  
+**Best with:** Python · AWS · Real-time systems & WebSockets · Computer Vision · End-to-end prototyping under time pressure  
 **Familiar with:** TypeScript · Node.js · Embedded sensors (IMU, force) · SQL · Business strategy & finance
 
 > **TL;DR** I'm Mateo, 20, doing a double degree in CS + Business at UCM. I placed 2nd worldwide at the Harvard HSIL Hackathon 2026 (14,000 applicants, 1,500+ teams, pitched in Boston) building a neuromotor rehab system, and I won the Cursor Hackathon 2025 building an app driven by an eye-tracker we built ourselves. I work as a Software Engineer at Galeo Tech. I move fast, I like competition, and I default to building.
